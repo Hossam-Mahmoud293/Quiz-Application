@@ -1,0 +1,482 @@
+[
+  {
+      "title": "What does 'NaN' stand for in JavaScript?",
+      "answer_1": "Not a Null",
+      "answer_2": "Not a Number",
+      "answer_3": "Not an Object",
+      "answer_4": "No actual Name",
+      "right_answer": "Not a Number"
+  },
+  {
+      "title": "What is the result of typeof typeof null in JavaScript?",
+      "answer_1": "string",
+      "answer_2": "object",
+      "answer_3": "null",
+      "answer_4": "undefined",
+      "right_answer": "string"
+  },
+  {
+      "title": "What does the '===' operator do in JavaScript?",
+      "answer_1": "Checks for value equality without type coercion",
+      "answer_2": "Checks for value equality with type coercion",
+      "answer_3": "Assigns a value to a variable",
+      "answer_4": "Checks for reference equality",
+      "right_answer": "Checks for value equality without type coercion"
+  },
+  {
+      "title": "What does the '!' operator do in JavaScript?",
+      "answer_1": "Logical OR",
+      "answer_2": "Logical NOT",
+      "answer_3": "Logical AND",
+      "answer_4": "Logical XOR",
+      "right_answer": "Logical NOT"
+  },
+  {
+      "title": "What is the purpose of the 'let' keyword in JavaScript?",
+      "answer_1": "Declares a variable with block scope",
+      "answer_2": "Declares a constant variable",
+      "answer_3": "Declares a global variable",
+      "answer_4": "Declares a variable with function scope",
+      "right_answer": "Declares a variable with block scope"
+  },
+  {
+      "title": "What is the purpose of the 'const' keyword in JavaScript?",
+      "answer_1": "Declares a variable with block scope",
+      "answer_2": "Declares a constant variable",
+      "answer_3": "Declares a global variable",
+      "answer_4": "Declares a variable with function scope",
+      "right_answer": "Declares a constant variable"
+  },
+  {
+      "title": "What is the output of 0.1 + 0.2 in JavaScript?",
+      "answer_1": "0.3",
+      "answer_2": "0.30000000000000004",
+      "answer_3": "0.2",
+      "answer_4": "0.1",
+      "right_answer": "0.30000000000000004"
+  },
+  {
+      "title": "What is the purpose of the 'map' function in JavaScript?",
+      "answer_1": "Iterates over an array and modifies its elements",
+      "answer_2": "Returns a new array with the results of calling a provided function on every element",
+      "answer_3": "Checks if every element in an array passes a test",
+      "answer_4": "Returns the first element in an array that passes a test",
+      "right_answer": "Returns a new array with the results of calling a provided function on every element"
+  },
+  {
+      "title": "What is the purpose of the 'filter' function in JavaScript?",
+      "answer_1": "Iterates over an array and modifies its elements",
+      "answer_2": "Returns a new array with the results of calling a provided function on every element",
+      "answer_3": "Checks if every element in an array passes a test",
+      "answer_4": "Returns the elements in an array that pass a test",
+      "right_answer": "Returns the elements in an array that pass a test"
+  },
+  {
+      "title": "What is the purpose of the 'reduce' function in JavaScript?",
+      "answer_1": "Iterates over an array and modifies its elements",
+      "answer_2": "Returns a new array with the results of calling a provided function on every element",
+      "answer_3": "Checks if every element in an array passes a test",
+      "answer_4": "Reduces the array to a single value",
+      "right_answer": "Reduces the array to a single value"
+  },
+  {
+      "title": "What does 'scope' refer to in JavaScript?",
+      "answer_1": "The visibility of variables",
+      "answer_2": "The order of execution",
+      "answer_3": "The length of a variable",
+      "answer_4": "The data type of a variable",
+      "right_answer": "The visibility of variables"
+  },
+  {
+      "title": "What is an IIFE in JavaScript?",
+      "answer_1": "Immediately Inferred Function Expression",
+      "answer_2": "Immediately Invoked Function Expression",
+      "answer_3": "Immediately Iterated Function Execution",
+      "answer_4": "Immediately Integrated Function Expression",
+      "right_answer": "Immediately Invoked Function Expression"
+  },
+  {
+      "title": "What is the purpose of the 'bind' method in JavaScript?",
+      "answer_1": "To attach event handlers to elements",
+      "answer_2": "To create a new array with the results of calling a provided function on every element",
+      "answer_3": "To create a new function with a specified 'this' value",
+      "answer_4": "To check if a function is callable",
+      "right_answer": "To create a new function with a specified 'this' value"
+  },
+  {
+      "title": "What is the purpose of the 'call' method in JavaScript?",
+      "answer_1": "To attach event handlers to elements",
+      "answer_2": "To create a new array with the results of calling a provided function on every element",
+      "answer_3": "To invoke a function with a specified 'this' value",
+      "answer_4": "To check if a function is callable",
+      "right_answer": "To invoke a function with a specified 'this' value"
+  },
+  {
+      "title": "What is the purpose of the 'apply' method in JavaScript?",
+      "answer_1": "To attach event handlers to elements",
+      "answer_2": "To create a new array with the results of calling a provided function on every element",
+      "answer_3": "To invoke a function with a specified 'this' value and arguments provided as an array",
+      "answer_4": "To check if a function is callable",
+      "right_answer": "To invoke a function with a specified 'this' value and arguments provided as an array"
+  },
+  {
+      "title": "What is a closure in JavaScript?",
+      "answer_1": "A function that has access to its own scope only",
+      "answer_2": "A function that has access to the scope of the outer function",
+      "answer_3": "A function that has access to the global scope",
+      "answer_4": "A function that has access to the scope of another function",
+      "right_answer": "A function that has access to the scope of the outer function"
+  },
+  {
+      "title": "What is the purpose of the 'prototype' property in JavaScript?",
+      "answer_1": "To define the properties and methods of an object",
+      "answer_2": "To create a new object with the specified prototype object and properties",
+      "answer_3": "To access the properties and methods of an object",
+      "answer_4": "To define the constructor of an object",
+      "right_answer": "To define the properties and methods of an object"
+  },
+  {
+      "title": "What is event delegation in JavaScript?",
+      "answer_1": "Attaching an event listener to multiple elements at once",
+      "answer_2": "Attaching an event listener to the document root",
+      "answer_3": "Delegating the handling of events to a parent element",
+      "answer_4": "Delegating the handling of events to a child element",
+      "right_answer": "Delegating the handling of events to a parent element"
+  },
+  {
+      "title": "What is the purpose of the 'addEventListener' method in JavaScript?",
+      "answer_1": "To remove an event listener from an element",
+      "answer_2": "To add an event listener to an element",
+      "answer_3": "To trigger an event on an element",
+      "answer_4": "To handle an event on an element",
+      "right_answer": "To add an event listener to an element"
+  },
+  {
+      "title": "What is the purpose of the 'removeEventListener' method in JavaScript?",
+      "answer_1": "To remove an event listener from an element",
+      "answer_2": "To add an event listener to an element",
+      "answer_3": "To trigger an event on an element",
+      "answer_4": "To handle an event on an element",
+      "right_answer": "To remove an event listener from an element"
+  },
+  {
+      "title": "What is the purpose of the 'fetch' API in JavaScript?",
+      "answer_1": "To make asynchronous HTTP requests",
+      "answer_2": "To manipulate the DOM",
+      "answer_3": "To add event listeners",
+      "answer_4": "To create animations",
+      "right_answer": "To make asynchronous HTTP requests"
+  },
+  {
+      "title": "What is the purpose of the 'Promise' object in JavaScript?",
+      "answer_1": "To represent a value that may be available now, in the future, or never",
+      "answer_2": "To handle errors in asynchronous code",
+      "answer_3": "To define a custom event",
+      "answer_4": "To control the flow of execution",
+      "right_answer": "To represent a value that may be available now, in the future, or never"
+  },
+  {
+      "title": "What is the purpose of the 'async' and 'await' keywords in JavaScript?",
+      "answer_1": "To define a function that returns a Promise",
+      "answer_2": "To handle asynchronous code in a synchronous manner",
+      "answer_3": "To catch errors in asynchronous code",
+      "answer_4": "To define a callback function",
+      "right_answer": "To handle asynchronous code in a synchronous manner"
+  },
+  {
+      "title": "What is the purpose of the 'try', 'catch', and 'finally' blocks in JavaScript?",
+      "answer_1": "To define a function that returns a Promise",
+      "answer_2": "To handle errors in asynchronous code",
+      "answer_3": "To catch and handle exceptions in code",
+      "answer_4": "To define a callback function",
+      "right_answer": "To catch and handle exceptions in code"
+  },
+  {
+      "title": "What is the purpose of the 'localStorage' object in JavaScript?",
+      "answer_1": "To store data in the browser's local storage",
+      "answer_2": "To make HTTP requests",
+      "answer_3": "To manipulate the DOM",
+      "answer_4": "To define event listeners",
+      "right_answer": "To store data in the browser's local storage"
+  },
+  {
+      "title": "What is the purpose of the 'sessionStorage' object in JavaScript?",
+      "answer_1": "To store data for the duration of a session",
+      "answer_2": "To make HTTP requests",
+      "answer_3": "To manipulate the DOM",
+      "answer_4": "To define event listeners",
+      "right_answer": "To store data for the duration of a session"
+  },
+  {
+      "title": "What is the purpose of the 'JSON' object in JavaScript?",
+      "answer_1": "To manipulate the DOM",
+      "answer_2": "To store data in the browser's local storage",
+      "answer_3": "To handle JSON data",
+      "answer_4": "To define event listeners",
+      "right_answer": "To handle JSON data"
+  },
+  {
+      "title": "What is the purpose of the 'fetch' method in JavaScript?",
+      "answer_1": "To make HTTP requests",
+      "answer_2": "To manipulate the DOM",
+      "answer_3": "To define event listeners",
+      "answer_4": "To store data in the browser's local storage",
+      "right_answer": "To make HTTP requests"
+  },
+  {
+      "title": "What is the purpose of the 'XMLHttpRequest' object in JavaScript?",
+      "answer_1": "To make asynchronous HTTP requests",
+      "answer_2": "To manipulate the DOM",
+      "answer_3": "To define event listeners",
+      "answer_4": "To store data in the browser's local storage",
+      "right_answer": "To make asynchronous HTTP requests"
+  },
+  {
+      "title": "What is the purpose of the 'addEventListener' method in JavaScript?",
+      "answer_1": "To add event listeners to elements",
+      "answer_2": "To remove event listeners from elements",
+      "answer_3": "To manipulate the DOM",
+      "answer_4": "To store data in the browser's local storage",
+      "right_answer": "To add event listeners to elements"
+  },
+  {
+      "title": "What is the purpose of the 'removeEventListener' method in JavaScript?",
+      "answer_1": "To add event listeners to elements",
+      "answer_2": "To remove event listeners from elements",
+      "answer_3": "To manipulate the DOM",
+      "answer_4": "To store data in the browser's local storage",
+      "right_answer": "To remove event listeners from elements"
+  },
+  {
+      "title": "What is the purpose of the 'setTimeout' function in JavaScript?",
+      "answer_1": "To add a delay before executing a function",
+      "answer_2": "To make asynchronous HTTP requests",
+      "answer_3": "To define event listeners",
+      "answer_4": "To store data in the browser's local storage",
+      "right_answer": "To add a delay before executing a function"
+  },
+  {
+      "title": "What is the purpose of the 'setInterval' function in JavaScript?",
+      "answer_1": "To add a delay before executing a function",
+      "answer_2": "To repeat the execution of a function at specified intervals",
+      "answer_3": "To define event listeners",
+      "answer_4": "To store data in the browser's local storage",
+      "right_answer": "To repeat the execution of a function at specified intervals"
+  },
+  {
+      "title": "What is the purpose of the 'clearTimeout' function in JavaScript?",
+      "answer_1": "To add a delay before executing a function",
+      "answer_2": "To repeat the execution of a function at specified intervals",
+      "answer_3": "To clear the timeout set by setTimeout",
+      "answer_4": "To manipulate the DOM",
+      "right_answer": "To clear the timeout set by setTimeout"
+  },
+  {
+      "title": "What is the purpose of the 'clearInterval' function in JavaScript?",
+      "answer_1": "To add a delay before executing a function",
+      "answer_2": "To repeat the execution of a function at specified intervals",
+      "answer_3": "To clear the interval set by setInterval",
+      "answer_4": "To manipulate the DOM",
+      "right_answer": "To clear the interval set by setInterval"
+  },
+  {
+      "title": "What is the purpose of the 'Date' object in JavaScript?",
+      "answer_1": "To manipulate dates and times",
+      "answer_2": "To make asynchronous HTTP requests",
+      "answer_3": "To define event listeners",
+      "answer_4": "To store data in the browser's local storage",
+      "right_answer": "To manipulate dates and times"
+  },
+  {
+      "title": "What is the purpose of the 'Math' object in JavaScript?",
+      "answer_1": "To perform mathematical operations",
+      "answer_2": "To make asynchronous HTTP requests",
+      "answer_3": "To define event listeners",
+      "answer_4": "To store data in the browser's local storage",
+      "right_answer": "To perform mathematical operations"
+  },
+  {
+      "title": "What is the purpose of the 'Error' object in JavaScript?",
+      "answer_1": "To handle errors in code",
+      "answer_2": "To make asynchronous HTTP requests",
+      "answer_3": "To define event listeners",
+      "answer_4": "To store data in the browser's local storage",
+      "right_answer": "To handle errors in code"
+  },
+  {
+      "title": "What is the purpose of the 'console' object in JavaScript?",
+      "answer_1": "To log messages to the console",
+      "answer_2": "To make asynchronous HTTP requests",
+      "answer_3": "To define event listeners",
+      "answer_4": "To store data in the browser's local storage",
+      "right_answer": "To log messages to the console"
+  },
+  {
+      "title": "What is the purpose of the 'isNaN' function in JavaScript?",
+      "answer_1": "To check if a value is not a number",
+      "answer_2": "To check if a value is a number",
+      "answer_3": "To check if a value is null",
+      "answer_4": "To check if a value is undefined",
+      "right_answer": "To check if a value is not a number"
+  },
+  {
+      "title": "What is the purpose of the 'parseInt' function in JavaScript?",
+      "answer_1": "To parse a string and return an integer",
+      "answer_2": "To parse a string and return a float",
+      "answer_3": "To convert a string to lowercase",
+      "answer_4": "To convert a string to uppercase",
+      "right_answer": "To parse a string and return an integer"
+  },
+  {
+      "title": "What is the purpose of the 'parseFloat' function in JavaScript?",
+      "answer_1": "To parse a string and return an integer",
+      "answer_2": "To parse a string and return a float",
+      "answer_3": "To convert a string to lowercase",
+      "answer_4": "To convert a string to uppercase",
+      "right_answer": "To parse a string and return a float"
+  },
+  {
+      "title": "What is the purpose of the 'encodeURI' function in JavaScript?",
+      "answer_1": "To encode a URI component",
+      "answer_2": "To decode a URI component",
+      "answer_3": "To encode a URL",
+      "answer_4": "To decode a URL",
+      "right_answer": "To encode a URI component"
+  },
+  {
+      "title": "What is the purpose of the 'decodeURI' function in JavaScript?",
+      "answer_1": "To encode a URI component",
+      "answer_2": "To decode a URI component",
+      "answer_3": "To encode a URL",
+      "answer_4": "To decode a URL",
+      "right_answer": "To decode a URI component"
+  },
+  {
+      "title": "What is the purpose of the 'encodeURIcomponent' function in JavaScript?",
+      "answer_1": "To encode a URI component",
+      "answer_2": "To decode a URI component",
+      "answer_3": "To encode a URL",
+      "answer_4": "To decode a URL",
+      "right_answer": "To encode a URI component"
+  },
+  {
+      "title": "What is the purpose of the 'decodeURIcomponent' function in JavaScript?",
+      "answer_1": "To encode a URI component",
+      "answer_2": "To decode a URI component",
+      "answer_3": "To encode a URL",
+      "answer_4": "To decode a URL",
+      "right_answer": "To decode a URI component"
+  },
+  {
+      "title": "What is the purpose of the 'Math.random' function in JavaScript?",
+      "answer_1": "To generate a random number between 0 (inclusive) and 1 (exclusive)",
+      "answer_2": "To generate a random number between 0 (inclusive) and 1 (inclusive)",
+      "answer_3": "To generate a random integer between two specified values",
+      "answer_4": "To generate a random integer between 0 and the specified value",
+      "right_answer": "To generate a random number between 0 (inclusive) and 1 (exclusive)"
+  },
+  {
+      "title": "What is the purpose of the 'Math.floor' function in JavaScript?",
+      "answer_1": "To round a number to the nearest integer",
+      "answer_2": "To round a number down to the nearest integer",
+      "answer_3": "To round a number up to the nearest integer",
+      "answer_4": "To truncate the decimal part of a number",
+      "right_answer": "To round a number down to the nearest integer"
+  },
+  {
+      "title": "What is the purpose of the 'Math.ceil' function in JavaScript?",
+      "answer_1": "To round a number to the nearest integer",
+      "answer_2": "To round a number down to the nearest integer",
+      "answer_3": "To round a number up to the nearest integer",
+      "answer_4": "To truncate the decimal part of a number",
+      "right_answer": "To round a number up to the nearest integer"
+  },
+  {
+      "title": "What is the purpose of the 'Math.round' function in JavaScript?",
+      "answer_1": "To round a number to the nearest integer",
+      "answer_2": "To round a number down to the nearest integer",
+      "answer_3": "To round a number up to the nearest integer",
+      "answer_4": "To truncate the decimal part of a number",
+      "right_answer": "To round a number to the nearest integer"
+  },
+  {
+      "title": "What is the purpose of the 'Math.abs' function in JavaScript?",
+      "answer_1": "To return the absolute value of a number",
+      "answer_2": "To return the negative value of a number",
+      "answer_3": "To return the square root of a number",
+      "answer_4": "To return the exponentiation of a number",
+      "right_answer": "To return the absolute value of a number"
+  },
+  {
+      "title": "What is the purpose of the 'Math.sqrt' function in JavaScript?",
+      "answer_1": "To return the absolute value of a number",
+      "answer_2": "To return the negative value of a number",
+      "answer_3": "To return the square root of a number",
+      "answer_4": "To return the exponentiation of a number",
+      "right_answer": "To return the square root of a number"
+  },
+  {
+      "title": "What is the purpose of the 'Math.pow' function in JavaScript?",
+      "answer_1": "To return the absolute value of a number",
+      "answer_2": "To return the negative value of a number",
+      "answer_3": "To return the square root of a number",
+      "answer_4": "To return the exponentiation of a number",
+      "right_answer": "To return the exponentiation of a number"
+  },
+  {
+      "title": "What is the purpose of the 'Math.min' function in JavaScript?",
+      "answer_1": "To return the minimum of two numbers",
+      "answer_2": "To return the maximum of two numbers",
+      "answer_3": "To return the average of two numbers",
+      "answer_4": "To return the sum of two numbers",
+      "right_answer": "To return the minimum of two numbers"
+  },
+  {
+      "title": "What is the purpose of the 'Math.max' function in JavaScript?",
+      "answer_1": "To return the minimum of two numbers",
+      "answer_2": "To return the maximum of two numbers",
+      "answer_3": "To return the average of two numbers",
+      "answer_4": "To return the sum of two numbers",
+      "right_answer": "To return the maximum of two numbers"
+  },
+  {
+      "title": "What is the purpose of the 'Math.PI' constant in JavaScript?",
+      "answer_1": "To represent the value of pi (π)",
+      "answer_2": "To represent the value of e",
+      "answer_3": "To represent the value of phi (φ)",
+      "answer_4": "To represent the value of tau (τ)",
+      "right_answer": "To represent the value of pi (π)"
+  },
+  {
+      "title": "What is the purpose of the 'Math.E' constant in JavaScript?",
+      "answer_1": "To represent the value of pi (π)",
+      "answer_2": "To represent the value of e",
+      "answer_3": "To represent the value of phi (φ)",
+      "answer_4": "To represent the value of tau (τ)",
+      "right_answer": "To represent the value of e"
+  },
+  {
+      "title": "What is the purpose of the 'Math.random' function in JavaScript?",
+      "answer_1": "To generate a random number between 0 (inclusive) and 1 (exclusive)",
+      "answer_2": "To generate a random number between 0 (inclusive) and 1 (inclusive)",
+      "answer_3": "To generate a random integer between two specified values",
+      "answer_4": "To generate a random integer between 0 and the specified value",
+      "right_answer": "To generate a random number between 0 (inclusive) and 1 (exclusive)"
+  },
+  {
+      "title": "What is the purpose of the 'Math.floor' function in JavaScript?",
+      "answer_1": "To round a number to the nearest integer",
+      "answer_2": "To round a number down to the nearest integer",
+      "answer_3": "To round a number up to the nearest integer",
+      "answer_4": "To truncate the decimal part of a number",
+      "right_answer": "To round a number down to the nearest integer"
+  },
+  {
+      "title": "What is the purpose of the 'Math.ceil' function in JavaScript?",
+      "answer_1": "To round a number to the nearest integer",
+      "answer_2": "To round a number down to the nearest integer",
+      "answer_3": "To round a number up to the nearest integer",
+      "answer_4": "To truncate the decimal part of a number",
+      "right_answer": "To round a number up to the nearest integer"
+  }
+]
